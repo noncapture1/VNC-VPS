@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/noncapture1/VNC-VPS)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/noncapture1/VNC-VPS)
 # VNC Server ( Virtual Network Computing ) on Heroku
 ### Description in English
 
